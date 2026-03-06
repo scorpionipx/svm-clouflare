@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "svm-clouflare",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "933be7d4-3b82-4a72-bcef-72669f456f04",
+			"database_name": "svm-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
